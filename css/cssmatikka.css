@@ -1,0 +1,29 @@
+body{
+    background-color:bisque;
+}
+div{
+    margin: 2em;
+}
+
+#container{
+    background-color: rgb(157, 236, 209);
+    border: solid 3px;
+    border-radius: 4px;
+    padding: 5%;
+    text-align: center;
+}
+
+#lasku{
+    font-size: 20px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button{
+    border: solid 2px;
+    background-color: bisque;
+    font-size: 20px;
+}
